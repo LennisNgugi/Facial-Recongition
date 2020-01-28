@@ -1,4 +1,4 @@
-pip install PyAutoGUI
-pip install numpy
-pip install opencv-python
-pip install face_recognition
+PyAutoGUI
+numpy
+opencv-python
+face_recognition
