@@ -10,3 +10,4 @@ Python3 based Facial Recongition which allows you to printscreen the livefeed
 <p>Alternatively pip install -r requirements.txt
 <p></p>
 
+![](Recongition.GIF)
