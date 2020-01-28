@@ -2,7 +2,7 @@
 Python based Facial Recongition which allows you to printscreen the livefeed
 
 # Requirement
-pip install PyAutoGUI
-pip install numpy
-pip install opencv-python
-pip install face_recognition
+<p>pip install PyAutoGUI</p>
+<p>pip install numpy</p>
+<p>pip install opencv-python</p>
+<p>pip install face_recognition</p>
